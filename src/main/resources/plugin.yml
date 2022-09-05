@@ -1,0 +1,5 @@
+name: PlayerdataMerge
+version: '${project.version}'
+main: me.l2x9.playerdatamerge.PlayerdataMerge
+authors: [ 254n_m ]
+description: Merge playerdata
